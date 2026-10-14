@@ -1,0 +1,4 @@
+wind_generation_percent,total_WTG_P_MW,WTG_Q_Mvar,load_P_MW,load_Q_Mvar,PCC_voltage_kV,upstream_20kV_bus_voltage_kV,grid_power_exchange_MW,grid_power_exchange_convention
+0,0,0,5,1.1,19.92,20.1,5.1,positive=import
+50,5,0,5,1.1,20.1,20.13,0,positive=import (approx)
+100,10,0,5,1.1,20.23,20.11,-4.9,positive=import; negative=export

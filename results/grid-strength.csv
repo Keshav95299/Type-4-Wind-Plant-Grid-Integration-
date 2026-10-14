@@ -1,0 +1,3 @@
+case,recorded_upstream_Sk_MVA_magnitude,PCC_Sk_MVA_WTG_out,PCC_Ik_kA,PCC_peak_fault_current_kA,WTG_rated_MW,SCR
+stronger_grid,2000.519,163.1,4.708,9.478,2,81.55
+reduced_strength,500,131.4,3.793,7.909,2,65.7

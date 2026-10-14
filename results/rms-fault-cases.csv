@@ -1,0 +1,3 @@
+case,fault_start_s,fault_clear_s_approx_from_plot,fault_duration_ms_approx,PCC_voltage_during_fault_pu_approx,PCC_voltage_after_clearing_pu_approx,WTG_P_dynamic_measured
+shorter,1.0,1.15,150,0,1.0,no
+longer,1.0,1.25,250,0,1.0,no
