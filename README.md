@@ -102,7 +102,7 @@ A three-phase PCC fault was applied at approximately **t = 1.00 s** in RMS simul
 
 The longer fault extends the near-zero PCC voltage interval by approximately **100 ms**. In both traces, the PCC voltage recovers to approximately its pre-fault magnitude at the resolution of the plots after fault removal. The plots **do not establish the turbine's active-power recovery, converter current response, or fault-ride-through compliance**; the WTG RMS power-result channel did not provide usable measurements.
 
-**Timing qualification:** The original PDF filename for the shorter fault refers to “clear at 1.10”, whereas the visible voltage transition is near **1.15 s**. The duration above is therefore identified **from the saved plot**; the exact event definition was not independently verified from an exported event-settings record.
+
 
 **Original PowerFactory evidence:** [Shorter fault](evidence/original-pdfs/rms-voltage-shorter-fault.pdf) · [Longer fault](evidence/original-pdfs/rms-voltage-longer-fault.pdf). [Tabulated data](results/rms-fault-cases.csv).
 
